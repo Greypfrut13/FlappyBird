@@ -1,0 +1,34 @@
+{
+    "name": "TouchAction",
+    "maps": [
+        {
+            "name": "Touch",
+            "id": "4cc94fcd-7b63-457f-83df-4a48e4178eb7",
+            "actions": [
+                {
+                    "name": "TouchPress",
+                    "type": "Button",
+                    "id": "5b356513-ad62-483d-a6e4-a9a27ebe0105",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d8896068-b4f5-4379-a8d3-aac0c13dfc96",
+                    "path": "<Touchscreen>/Press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TouchPress",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

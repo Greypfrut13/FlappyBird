@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0de1779940d980f41924434d42539bd7, type: 3}
+  m_Name: HardDifficulty
+  m_EditorClassIdentifier: 
+  _spawnDelay: 2
+  _pipeSpeed: 7
+  _pipesPrefab:
+  - {fileID: 3115558270000202080, guid: 3316caa75218c1a41b44d99b7fb8e5b9, type: 3}
+  - {fileID: 3529182864542443970, guid: eff71f26b4ad43f428cfd1b33b1e8f82, type: 3}
+  - {fileID: 8606470239768670886, guid: 4d351f8fe26dbb945bd52b3867fdeb7d, type: 3}
+  - {fileID: 2885881056178273105, guid: 6ea9ab5037e6e4645aaac2ec3c6bec65, type: 3}
+  - {fileID: 6026008865473501719, guid: ab4146d068bc3e04d93d0a6c320d1ed7, type: 3}
